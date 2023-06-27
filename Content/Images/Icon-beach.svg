@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <g id="Group_17" data-name="Group 17" transform="translate(-850 -1938)">
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="73" height="73" transform="translate(850 1938)" fill="#d6cdbf"/>
+    <path id="Rectangle_34_-_Outline" data-name="Rectangle 34 - Outline" d="M1,1V72H72V1H1M0,0H73V73H0Z" transform="translate(850 1938)" fill="#f7f5f2"/>
+    <path id="tree-palm" d="M5.259,4.382,7.3,7.773c-.219.192-.438.394-.657.614-4.344,4.338-3.1,9.3-1.243,11.158l8.211-8.211a10.13,10.13,0,0,1,.531,2.586c.23,2.547-.088,6.4-1.791,11.854l-.712,2.273h7.439l.192-1.534a36.979,36.979,0,0,0-1.736-16h7.187l1.578-2.629,1.578,2.629h3.681c0-2.629-2.629-7.012-8.764-7.012a9.637,9.637,0,0,0-5.631,1.632C16.242,2.706,13.585,0,8.764,0,2.629,0,0,4.382,0,7.012H3.681Z" transform="translate(870 1960)" opacity="0.41"/>
+  </g>
+</svg>

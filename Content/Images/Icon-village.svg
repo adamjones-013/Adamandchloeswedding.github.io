@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <g id="Group_18" data-name="Group 18" transform="translate(-850 -1833)">
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="73" height="73" transform="translate(850 1833)" fill="#d6cdbf"/>
+    <path id="Rectangle_33_-_Outline" data-name="Rectangle 33 - Outline" d="M1,1V72H72V1H1M0,0H73V73H0Z" transform="translate(850 1833)" fill="#f7f5f2"/>
+    <path id="building-columns" d="M0,7.581,13.477,0,26.954,7.581v2.527H0ZM0,26.954V24.427L3.369,21.9V11.792H6.738V21.9H8.844V11.792h3.369V21.9H14.74V11.792h3.369V21.9h2.106V11.792h3.369V21.9l3.369,2.527v2.527ZM13.477,7.581A1.685,1.685,0,1,0,11.792,5.9,1.685,1.685,0,0,0,13.477,7.581Z" transform="translate(873 1856)" opacity="0.41"/>
+  </g>
+</svg>

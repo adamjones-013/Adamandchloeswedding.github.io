@@ -1,0 +1,22 @@
+.text-content {
+    @include block;
+
+    &__row {
+        display: flex;
+        gap: 100px;
+
+        @media (max-width: 750px) {
+            flex-direction: column;
+            gap: 50px;
+        }
+
+        .col {
+            width: 50%;
+        }
+    }
+
+    &-body {
+        @include block;
+        margin-bottom: 40px;
+    }
+}

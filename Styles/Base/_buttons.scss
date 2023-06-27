@@ -1,0 +1,87 @@
+.btn {
+    display: inline-block;
+    font-weight: 500;
+    font-family: $base-font;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid $cream-dark;
+    color: #000;
+    background: #fff;
+    padding: 12px 30px;
+    font-size: 100%;
+    border-radius: 0;
+    cursor: pointer;
+    transition: color .5s ease,background-color .5s ease,border-color .5s ease,box-shadow .5s ease;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+    position: relative;
+
+    &:hover, &:active {
+        span {
+            color: #000;
+        }
+
+        &::before {
+            width: 100%;
+        }
+    }
+
+    span {
+        display: inline-block;
+        position: relative;
+        color: #000;
+        transition: 0.3s ease-in-out;
+    }
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 0;
+        background: $cream-dark;
+        transition: 0.3s ease-in-out;
+    }
+
+    &.no-border {
+        border: 0;
+    }
+
+    &.serif-font {
+        font-family: $heading-font;
+        font-weight: 600;
+    }
+}
+
+
+.text-btn {
+    display: inline-flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-size: 100%;
+    border-radius: 0;
+    cursor: pointer;
+    transition: color .5s ease,background-color .5s ease,border-color .5s ease,box-shadow .5s ease;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+    position: relative;
+
+    
+    .material-symbols-sharp {
+        font-weight: 200;
+        margin-left: 5px;
+        transition: 0.5s ease;
+    }
+}
